@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/aksh-git/CampusFlowPublic/main/cf_banner.png" alt="CampusFlow Banner" />
-
 # CampusFlow
+
+<img style="width:100%;" src="https://raw.githubusercontent.com/aksh-git/CampusFlowPublic/main/cf_banner.png" alt="CampusFlow Banner" />
+
 ### Connecting the Campus, Streamlining Education, Student Empowered.
 
 ## OBJECTIVE:
