@@ -14,8 +14,6 @@
 	- get all notes and ppt's according to the student's subjects.
 	- register & track complaints anonymously, direclty to the HOD (also visible to the admins). 
 	
-<br />
-
 * Find My Skill-mate : A feature of **CampusFlow** System that allows students to find other student with same skill-set with-in the campus, so they can form a better team for **Hackathons** & other Competitions and aslo work on the projects. 
 * Digital Notice-Board : As the name suggest this is a notice-board but not physical, Students can post request to put a notice on the board, their request along with the notice that they want to display will be sent to the hod & after the getting approvel notice will be posted with given parameter, like is it for a specific department or the whole campus.
 
@@ -34,7 +32,6 @@
 	usage example :
 	- using this feature to give assignments and homeworks.
 	- make alerts and notices, regarding fee, fines, etc.
-<br />
 
 * HOD's can respond to the student complaints of their departments via the web-app of the **CampusFlow**.(admins also can do this)
 * Teachers can create **events** for their department and also for whole the college, students will be notified automatically with a personalised message with the event details & rules for the event.
