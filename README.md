@@ -1,6 +1,4 @@
-# CampusFlow
-
-<img style="width:100%;" src="https://raw.githubusercontent.com/aksh-git/CampusFlowPublic/main/cf_banner.png" alt="CampusFlow Banner" />
+<img style="width:100%;" src="./cf_banner.png" alt="CampusFlow Banner" />
 
 ### Connecting the Campus, Streamlining Education, Student Empowered.
 
@@ -15,6 +13,7 @@
 	- get details about all the on-going events & future events as well.
 	- get all notes and ppt's according to the student's subjects.
 	- register & track complaints anonymously, direclty to the HOD (also visible to the admins). 
+	
 <br />
 
 * Find My Skill-mate : A feature of **CampusFlow** System that allows students to find other student with same skill-set with-in the campus, so they can form a better team for **Hackathons** & other Competitions and aslo work on the projects. 
