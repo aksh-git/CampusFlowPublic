@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/aksh-git/CampusFlowPublic/main/cf_banner.png" alt="CampusFlow Banner" />
+
 # CampusFlow
 ### Connecting the Campus, Streamlining Education, Student Empowered.
 
