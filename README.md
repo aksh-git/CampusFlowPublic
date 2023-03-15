@@ -1,5 +1,5 @@
 
-<img style="width:100%;" src="./cf_banner.png" alt="CampusFlow Banner" />
+<img style="width:100%;" src="./assets/images/logo.png" alt="CampusFlow Banner" />
 
 ## OBJECTIVE 
 ### For Students
