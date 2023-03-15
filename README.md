@@ -1,8 +1,8 @@
 
 <img style="width:100%;" src="./cf_banner.png" alt="CampusFlow Banner" />
 
-## OBJECTIVE:
-### FOR STUDENTS
+## OBJECTIVE 
+### For Students
 
 * Provide Students all information, everything is just one message away
 
@@ -22,7 +22,7 @@
 
 `(not only for students can also be used by teachers for other type of notices)`
 
-### FOR TEACHERS
+### For Teachers
 
 * Tecaher's can upload the **notes** just once and after that any student from the respective department and semester can access it at any moment, so teachers don't have to send it to everyone again and again.
 * Tecaher's will have to update the **attendence** of students every week (can change update period to 15days) by uploading the excel sheet via the web-app of the **CampusFlow** System after logging by their credentials. `(rolling out, currently in beta)`
@@ -35,12 +35,12 @@
 * HOD's can respond to the student complaints of their departments via the web-app of the **CampusFlow**.(admins also can do this)
 * Teachers can create **events** for their department and also for whole the college, students will be notified automatically with a personalised message with the event details & rules for the event.
 
-### FOR ADMINS
+### For Admins
 
 * Monitor the whole system and make changes & updates to the system, via using the admin dashboard.
 * Perform all the high level operations, to monitor the system by restricting and allowing task & privilages and make needed changes.
 
-## Want to be a part of the project?
+## Be a part of the project.
 You can be  a part of the project by contributing to the project.
 Interest in contributing to the CampusFlow project! 
 
@@ -80,3 +80,5 @@ As a student, contributing to the projects can provide you with several benefits
 <div align="center">
 Created & managed by <a href='https://akash-web.netlify.app/'>akash</a>
 </div>
+
+<hr>
