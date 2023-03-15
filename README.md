@@ -56,7 +56,7 @@ Here are some areas where you could help with documentation for CampusFlow:
 -  **Testing :** You can help us test the system and identify bugs or issues that need to be addressed. This can be done by following our testing guidelines and reporting any problems you encounter.
 -  **Development :** JavaScript developers with experience in Express.js can contribute to CampusFlow by building new features, fixing issues, optimizing performance, reviewing code, and improving documentation and testing. By joining our open-source community, developers can gain valuable experience working on a real-world project and help create a system that benefits students. We welcome developers of all levels and backgrounds to contribute to the project.
 
-If you have experience in technical writing, software documentation, or related fields, we would love to have your help with the project. You can get started by joining our open-source community and checking out our documentation repository on GitHub. From there, you can contribute to existing documentation or create new documentation that meets our standards and guidelines.
+If you have experience in technical writing, software documentation, or related fields, we would love to have your help with the project.
 
 *Thank you for your interest in contributing to the CampusFlow project, and we look forward to working with you!*
 
