@@ -1,8 +1,6 @@
 
 <img style="width:100%;" src="./cf_banner.png" alt="CampusFlow Banner" />
 
-### Connecting the Campus, Streamlining Education, Student Empowered.
-
 ## OBJECTIVE:
 ### FOR STUDENTS
 
