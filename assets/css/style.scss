@@ -1,6 +1,15 @@
-@import "{{ site.theme }}";
+@import 'jekyll-theme-leap-day';
+
+header{
+    background-image: url('../images/background.png');
+    width: 100%;
+}
 
 #banner {
     background: #8789be;
     border: 1px solid #7e82be;
+}
+
+body {
+    font: unset;
 }
