@@ -71,14 +71,12 @@ As a student, contributing to the projects can provide you with several benefits
     
 *Overall, contributing to the project can provide you with a valuable learning experience, a chance to make a difference, and an opportunity to build your skills and portfolio. We welcome students of all levels and backgrounds to join our community and contribute in any way they can.*
 
-<hr>
-
 ### Contact :
 
 > write [email](mailto:sharewithakashyadav@gmail.com)
 
 <div align="center">
-Created & managed by <a href='https://akash-web.netlify.app/'>akash</a>
+Made with &#10084; by <a href='https://akash-web.netlify.app/'>akash</a>
 </div>
 
 <hr>

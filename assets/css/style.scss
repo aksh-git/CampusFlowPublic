@@ -15,11 +15,19 @@ header{
     background: #6166b1 !important;
     border: 1px solid #494b8e !important;
     .button{
-        background: linear-gradient(#494b8e, #6166b1);
+        background: linear-gradient(#6568b4, #6b6fac);
         border : 1px solid #6166b1;
+        color: #f3f3f3;
     }
     .button:hover{
-        background: linear-gradient(#6568b4, #6b6fac);
+        background: linear-gradient(#494b8e, #6166b1);
     }
 }
 
+ul {
+    list-style-image : none;
+}
+
+hr{
+    margin: 10px 0 20px;
+}
