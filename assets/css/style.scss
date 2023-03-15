@@ -1,19 +1,18 @@
 ---
-=
 ---
 
 @import 'jekyll-theme-leap-day';
 
-header{
-    background: #7c81be;
-    width: 100%;
-}
-
-#banner {
-    background: #6166b1;
-    border: 1px solid #494b8e;
-}
-
 body {
     font: unset;
 }
+
+header{
+    background: #7c81be !important;
+}
+
+#banner {
+    background: #6166b1 !important;
+    border: 1px solid #494b8e !important;
+}
+
