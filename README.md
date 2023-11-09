@@ -40,20 +40,6 @@
 * Monitor the whole system and make changes & updates to the system, via using the admin dashboard.
 * Perform all the high level operations, to monitor the system by restricting and allowing task & privilages and make needed changes.
 
-## Be a part of the project.
-You can be  a part of the project by contributing to the project.
-Interest in contributing to the CampusFlow project! 
-
-There are many ways in which you can get involved and help us to improve the system. One area where we could use your expertise is in writing documentation for the project.
-
-Here are some areas where you could help with documentation for CampusFlow:
-
--   **User guides :** Create step-by-step guides that show users how to use the system, from setting up their account to accessing different features and functions.
--   **Technical documentation :** Write detailed documentation that explains how the system works, including its architecture, data model, and APIs.
--  **UI/UX design :** If you have experience in user interface or user experience design, you can help us improve the look and feel of the system by creating wireframes, mockups, or design prototypes.
--  **Testing :** You can help us test the system and identify bugs or issues that need to be addressed. This can be done by following our testing guidelines and reporting any problems you encounter.
--  **Development :** JavaScript developers with experience in Express.js can contribute to CampusFlow by building new features, fixing issues, optimizing performance, reviewing code, and improving documentation and testing.
-  
 ### Contact :
 
 > write [email](mailto:sharewithakashyadav@gmail.com)
